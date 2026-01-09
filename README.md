@@ -1,5 +1,10 @@
 # Business Performance Overview: Revenue, Profit and Advertising Impact
 
+## Key Outcomes
+_ Identified root causes behind negative profit in 20% of top-selling products
+
+_ Uncovered delayed conversion patterns in ad campaigns peaking around final durations,and flagged critical inefficiencies including 43% of products generating zero revenue and 18% of regions delivering negative profit, enabling more informed decisions on campaign duration, budget allocation and product-level optimization
+
 ## Client Background
 
 The business operates in the Vietnamese fashion market with nationwide coverage. This project focuses on analyzing online marketing campaigns for the women’s fashion category across 62 cities and provinces, spanning Northern to Southern Vietnam, the campaigns were conducted over a one-month period and have entered the review stage. The analysis evaluates campaign performance based on revenue contribution, effectiveness across products, geographic areas and the efficiency of marketing spend allocation. The objective is to support data-driven decisions on whether to maintain or adjust campaign setups, budget distribution, creative strategies and overall marketing execution
