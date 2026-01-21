@@ -3,13 +3,43 @@
 ## Key Outcomes
 _ Identified root causes behind negative profit in 20% of top-selling products
 
-_ Uncovered delayed conversion patterns in ad campaigns peaking around final durations,and flagged critical inefficiencies including 43% of products generating zero revenue and 18% of regions delivering negative profit, enabling more informed decisions on campaign duration, budget allocation and product-level optimization
+_ Uncovered delayed conversion patterns in ad campaigns peaking around final durations and flagged critical inefficiencies including 43% of products generating zero revenue and 18% of regions delivering negative profit, enabling more informed decisions on campaign duration, budget allocation and product-level optimization
 
 ## Client Background
 
 The business operates in the Vietnamese fashion market with nationwide coverage. This project focuses on analyzing online marketing campaigns for the women’s fashion category across 62 cities and provinces, spanning Northern to Southern Vietnam, the campaigns were conducted over a one-month period and have entered the review stage. The analysis evaluates campaign performance based on revenue contribution, effectiveness across products, geographic areas and the efficiency of marketing spend allocation. The objective is to support data-driven decisions on whether to maintain or adjust campaign setups, budget distribution, creative strategies and overall marketing execution
 
 ## Executive Summary
+
+During 31-day campaign period, advertising played a central role in order generation by contributing 1,958 out of 2,858 orders (68.5%) and approximately 3 billion VND out of 5 billion VND in total revenue. However, profitability did not scale with sales volume: more than 60% of campaign days recorded negative profit, and the ads channel alone showed negative profit on 22 out of 31 days (~70%), despite maintaining positive revenue
+
+### *Revenue by Channel*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f8bb11ba10f43e19611ed8eb6be629bd56f778e6/Insight%20-%20Revenue%20by%20Channels.png)
+
+### *% Budget used and ads profit by day*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/a3ad2e2214eb3e33920b1f0692f350fd4cbe1b28/Overall%20-%20%25%20budget%20used%20vs%20profit.png)
+
+Deeper analysis indicates that the core issue is a uniform and prolonged discount policy applied across categories. This policy resulted in systematic profit losses across both ads and direct sales channels. At the same time, conversion performance varies significantly by product category, suggesting that budget allocation and sales strategy should be category-specific rather than evenly distributed
+
+### *Discount impact on profit from ads channel*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/49e48f30846442ad27327c60ce3170fcd1ab0397/Insight%20-%20Discount%20impact%20on%20profit%20(ads).png)
+
+### *Discount impact on profit from direct channel*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/49e48f30846442ad27327c60ce3170fcd1ab0397/Insight%20-%20Discount%20impact%20on%20profit%20(direct).png)
+
+### Overall Profit Trend by Channel - Channel mix is unlikely to be the primary driver of losses
+
+*Profit trends move in the same direction across channels*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/55429104f580ee4b77b7dc831ce8812a2d4ee0a8/Overall%20-%20Channel%20contribution%20by%20Profit%20(daily%20level).png)
+
+
+
+
 
 ## I. Ads Performance Overview: Spend, Efficiency AND Contribution
 ### 1. Budget utilization & spend control
