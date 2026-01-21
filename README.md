@@ -31,12 +31,6 @@ Deeper analysis indicates that the core issue is a uniform and prolonged discoun
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/49e48f30846442ad27327c60ce3170fcd1ab0397/Insight%20-%20Discount%20impact%20on%20profit%20(direct).png)
 
-### Overall Profit Trend by Channel - Channel mix is unlikely to be the primary driver of losses
-
-*Profit trends move in the same direction across channels*
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/55429104f580ee4b77b7dc831ce8812a2d4ee0a8/Overall%20-%20Channel%20contribution%20by%20Profit%20(daily%20level).png)
-
 ## I. Marketing Performance – Insights & Recommendations
 ### 1. Budget Control & Spending Efficiency
 Budget utilization was well controlled for over 86% of the campaign duration, Only 13.33% of total days exceeded budget, mainly during the mid and late stages of the campaign
@@ -56,14 +50,12 @@ _ Avoid optimizing performance solely by increasing or tightening budgets
 _ Incorporate creative quality, product category and campaign timing when making scaling decisions
 
 ### 2. High Ads Revenue but Weak Profitability
-- Out of 2,858 total orders, 1,958 orders (68.5%) were generated through ads, confirming ads as the primary order driving channel. However, when comparing ads spend and ads profit, over 60% of ad days recorded negative profit, regardless of spend level
+- Out of 2,858 total orders, 1,958 orders (68.5%) were generated through ads, confirming ads as the primary order driving channel. However, when comparing ads spend and ads profit, over 60% of ad days recorded negative profit regardless of spend level. Ads successfully generate volume but fail to deliver consistent profitability
 - From a daily perspective:
 + Only 29% of days (9/31) were profitable overall
 + For the ads channel specifically: 22 days showed negative profit, only 5 days were profitable while the remaining days recorded zero or negative revenue
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/1a3d54a785ce8eb3cb63fd350252667274469c7e/Overall%20-%20Total%20revenue%20%26%20Profit.png)
-
-👉 Ads successfully generate volume but fail to deliver consistent profitability.
 
 ## Recommendations
 - Shift ad evaluation from revenue generated to revenue generated under a profitable cost structure
@@ -74,11 +66,11 @@ _ Incorporate creative quality, product category and campaign timing when making
 + Category Vay Chiet Eo Xoe (*waist-flare dresses*) account for over 50% of revenue in the Flowers Make My Day campaign
 + In contrast, clothing sets generate almost no revenue within these high-performing campaigns.
 
-*Top 5 campaigns drive revenue*
+### *Top 5 campaigns drive revenue*
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f5499109bfff2f6bea5496d9b443cfe01c109b76/Top%205%20campaign%20revenue%20.png)
 
-*Detail revenue of each category from Flowers Make My Day campaign*
+### *Detail revenue of each category from Flowers Make My Day campaign*
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f5499109bfff2f6bea5496d9b443cfe01c109b76/Insight%20-%20Category%20%26%20Revenue%20of%20Flower%20make%20my%20day%20camp.png)
 
@@ -87,16 +79,89 @@ _ Incorporate creative quality, product category and campaign timing when making
 + Campaigns launched earlier (Weeks 1–3) did not achieve comparable efficiency
 + Out of 175 campaigns, only 7 campaigns (~4%) generated zero revenue, indicating that poor performance is not driven by widespread campaign failure.
 
-*ROAS and weekly camplaigns run by category*
+### *ROAS and weekly camplaigns run by category*
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/6ea92a0644f087c108cf4f11163b827c3c3f169f/ROAS%20by%20category.png)
 
-*Lowest Performing Campaigns by Ad Revenue* 
+### *Lowest Performing Campaigns by Ad Revenue* 
 
-Recommendations
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/d12ddaf6183d82e34b7a8d9098d3a74e974bee12/Top%207%20campaign%20with%20lowest%20revenue.png)
 
-Reallocate budgets from low-performing campaigns and categories toward proven core campaigns.
+## Recommendations
+- Reallocate budgets from low performing campaigns and categories toward proven core campaigns
+- Prioritize spending during validated high-performance periods (Weeks 4–5) rather than scaling early
+- For the 4% of zero-revenue campaigns, optimize creatives or targeting before elimination
 
-Prioritize spending during validated high-performance periods (Weeks 4–5) rather than scaling early.
+## II. Product & Sales Performance – Insights & Recommendations
+### 1. Systematic Profit Loss by Category
+- Category × channel analysis shows:
++ Three product categories including Ao tach set (*apparels*), Chan vay tach set (*standalone skirts*) and Quan tach set (*standalone pants*) are the primary drivers of negative profit, recording losses in both ads and direct sales for over 80% of campaign days
 
-For the 4% of zero-revenue campaigns, optimize creatives or targeting before elimination
+### *Profit performance and channel contribution analysis of category Ao tach set (*apparel*)
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/e360001bdb2216be9f2a8da18d3c7503619a4e7f/Overall%20-%20Revenue%20%26%20Profit%20by%20category%20Ao%20Tach%20Set.png)
+
+### *Profit performance and channel contribution analysis of category Chan vay tach set (*standalone skirts*)
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/e360001bdb2216be9f2a8da18d3c7503619a4e7f/Overall%20-%20Revenue%20%26%20Profit%20by%20category%202%20(Chan%20Vay%20Tach%20Set).png)
+
+### *Profit performance and channel contribution analysis of category Quan tach set (*standalone pants*)
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/e360001bdb2216be9f2a8da18d3c7503619a4e7f/Overall%20-%20Revenue%20%26%20Profit%20by%20category%203%20(Quan%20Tach%20Set).png)
+
++ Other categories experience negative profit for less than 10% of campaign duration
+  
++ Discount rate is the direct cause of negative profit across all advertised categories, regardless of sales volume or revenue
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/191a11ad0b63784cba83070463908515f3a3e0af/Overall%20-%20Discount%20impact.png)
+
+- All categories record negative profit in both ads and direct sales confirming tha the issue is not channel related, not driven by scale but rooted in pricing and discount policy.
+
+### *Profit trends move in the same direction across channels*
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/55429104f580ee4b77b7dc831ce8812a2d4ee0a8/Overall%20-%20Channel%20contribution%20by%20Profit%20(daily%20level).png)
+
+## Recommendations
+- Review and adjust discount levels by category instead of applying a uniform policy
+- Reduce discounts for high-volume but high-loss categories to prevent scaling losses
+- Prioritize profit per order stability before pushing for higher sales volume
+
+2. Conversion Performance by Category
+- Overall funnel trends:
++ CTR remains stable at 0.6% - 1.0%
++ Click → Comment/Inbox rates are high (25% - 40%), indicating strong initial interest
++ However, Click → Order conversion is only 10% - 23%, showing friction at the purchase decision stage
+- Budget scaling:
++ Does not improve conversion cost
++ Conversion cost remains flat or increases slightly as spend grows
++ CPM ranges between 60K–100K with no meaningful decline as impressions increase
+
+- Category level highlights
++ Vay chiet eo xoe (*waist flare dresses*): stable funnel, Click → Order ~20%+, conversion cost does not worsen with increased spend
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(v%C3%A1y%20chi%E1%BA%BFt%20eo%20x%C3%B2e).png)
+  
++ Vay chiet eo om (*waist fitted dresses*): good engagement but unstable conversion efficiency
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%207%20-%20v%C3%A1y%20chi%E1%BA%BFt%20eo%20%C3%B4m.png)
+
++ Set quan ao (*clothing sets*): significant drop at Comment/Inbox → Order, typically below 15%
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%205%20-%20set%20qu%E1%BA%A7n%20%C3%A1o).png)
+  
++ Separated items (tops, pants, skirts): good engagement but low and unstable order conversion.
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%202%20-%20%C3%A1o%20t%C3%A1ch%20set).png)
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%204%20-%20qu%E1%BA%A7n%20t%C3%A1ch%20set).png)
+
+![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%203%20-%20ch%C3%A2n%20v%C3%A1y%20t%C3%A1ch%20set).png)
+
+## Recommendations
+- Focus optimization on the purchase decision stage, not media exposure
+- Scale waist-flare dresses with tight control
+- Keep waist fitted dresses category in a testing phase
+- Limit conversion-focused ads for sets and separated items, instead use bundles styling suggestions and conditional promotions
+
+## Overall Conclusion
+The campaign did not fail in generating demand or orders; it failed in converting revenue into profit. Advertising effectively drives volume, but misaligned discount strategy and non-selective scaling have created systematic losses. Sustainable improvement requires restructuring discount policies and reallocating budgets based on category-level effectiveness, rather than increasing spend indiscriminately
