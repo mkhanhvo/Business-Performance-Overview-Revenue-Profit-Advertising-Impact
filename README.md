@@ -1,4 +1,6 @@
-# Business Performance Overview: Revenue, Profit and Advertising Impact
+# Marketing Campaign Performance Overview: Revenue, Profit and Advertising Impact
+## Domain: Retail
+## Tool: Power Query, PBI
 
 ## Key Outcomes
 - Identified root causes behind negative profit in 20% of top selling products
